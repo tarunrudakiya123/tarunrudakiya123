@@ -11,12 +11,13 @@
     <li> <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></li>
     <li> <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWh4Gq-WVRLJp1QZZ2hXUmXTAqcgif0hSCAffjJMS4W0Lud9ZrlLQeU1xBYaeMKdmHDY&usqp=CAU"></li>
     <li> <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"></li>
-    <li>Javascript</li>
-    <li>JQuary</li>
-    <li>Bootstrap</li>
-    <li>Material UI</li>
-    <li>CSS/CSS-3</li>
-    <li>HTML/HTML-5</li>
+    <li> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png
+"></li>
+    <li> <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"></li>
+    <li> <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"></li>
+    <li> <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"></li>
+    <li> <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"></li>
+    <li> <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"></li>
   </ul>
 
 
