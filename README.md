@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Rudakiya</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding'width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunrudakiya123&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrudakiya123" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development React.js , Node.js , MongoDB, Javascript**
