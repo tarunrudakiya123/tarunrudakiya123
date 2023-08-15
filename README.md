@@ -1,4 +1,4 @@
-![image](https://github.com/tarunrudakiya123/tarunrudakiya123/assets/124019270/3c880a73-4ef1-4db3-9011-b6865eed7d91)<h1 align="center">Hi 👋, I'm Tarun Rudakiya</h1>
+<h1 align="center">Hi 👋, I'm Tarun Rudakiya</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="450" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1697673600&v=beta&t=-MzJtWmmN0Rc-J-NAqb7rwLPHdX3pP3cYm9TsQf4UaQ">
