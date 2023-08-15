@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages:</h3>
   <ul>
-    <li> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></li>
+    <li> <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></li>
     <li>Node.js</li>
     <li>MongoDB</li>
     <li>Javascript</li>
