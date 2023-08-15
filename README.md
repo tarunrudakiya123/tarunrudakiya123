@@ -9,8 +9,7 @@
 <h3 align="left">Languages:</h3>
   <ul>
     <li> <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></li>
-    <li> <img height="20" src="    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2iKohRKLgUW91kVL20gRzIkretUGr4sbrAQlg9dM&s
-"></li>
+    <li> <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWh4Gq-WVRLJp1QZZ2hXUmXTAqcgif0hSCAffjJMS4W0Lud9ZrlLQeU1xBYaeMKdmHDY&usqp=CAU"></li>
     <li>MongoDB</li>
     <li>Javascript</li>
     <li>JQuary</li>
