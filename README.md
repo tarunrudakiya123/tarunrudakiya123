@@ -9,7 +9,7 @@
 <h3 align="left">Languages:</h3>
   <ul>
     <li> <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></li>
-    <li>Node.js</li>
+    <li> <img height="20" src="https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcR2iKohRKLgUW91kVL20gRzIkretUGr4sbrAQlg9dM&s"></li>
     <li>MongoDB</li>
     <li>Javascript</li>
     <li>JQuary</li>
