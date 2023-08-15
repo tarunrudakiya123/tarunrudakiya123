@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Full Stack Development React.js , Node.js , MongoDB, Javascript**
 
 <h3 align="left">Connect with me:</h3>
+<p>Linkedin :- https://www.linkedin.com/in/tarun-rudakiya-796a771a4/</p>
 <p align="left">
 <a href="https://linkedin.com/in/tarun rudakiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun rudakiya" height="30" width="40" /></a>
 <a href="https://fb.com/tarun rudakiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarun rudakiya" height="30" width="40" /></a>
