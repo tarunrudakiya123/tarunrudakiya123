@@ -8,10 +8,10 @@
 
 <h3 align="left">Languages:</h3>
   <ul>
-    <li> <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></li>
+<!--     <li> <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></li>
     <li> <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWh4Gq-WVRLJp1QZZ2hXUmXTAqcgif0hSCAffjJMS4W0Lud9ZrlLQeU1xBYaeMKdmHDY&usqp=CAU"></li>
     <li> <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"></li>
-    <li> <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLl83sXgQCOzb0AioG2t5uKPcExLc0tkymOsoJ-aLaCB6Zgq-1dSyfH5p369XjKWNqeo&usqp=CAU"></li>
+    <li> <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLl83sXgQCOzb0AioG2t5uKPcExLc0tkymOsoJ-aLaCB6Zgq-1dSyfH5p369XjKWNqeo&usqp=CAU"></li> -->
     <li> <img height="150" src="https://img-c.udemycdn.com/course/750x422/1115348_daf2_16.jpg"></li>
     
   </ul>
