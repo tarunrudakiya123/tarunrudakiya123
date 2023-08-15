@@ -10,7 +10,8 @@
   <ul>
     <li> <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></li>
     <li> <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWh4Gq-WVRLJp1QZZ2hXUmXTAqcgif0hSCAffjJMS4W0Lud9ZrlLQeU1xBYaeMKdmHDY&usqp=CAU"></li>
-    <li>MongoDB</li>
+    <li> <img height="20" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png
+"></li>
     <li>Javascript</li>
     <li>JQuary</li>
     <li>Bootstrap</li>
