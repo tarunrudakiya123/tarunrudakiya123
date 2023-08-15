@@ -4,11 +4,9 @@
 <img align="right" alt="coding" width="450" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1697673600&v=beta&t=-MzJtWmmN0Rc-J-NAqb7rwLPHdX3pP3cYm9TsQf4UaQ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunrudakiya123&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrudakiya123" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development React.js , Node.js , MongoDB, Javascript**
+🌱 Currently learning **Full Stack Development Course and below mentioned languages*
 
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
   <ul>
     <li>React.js</li>
     <li>Node.js</li>
@@ -20,6 +18,7 @@
     <li>CSS/CSS-3</li>
     <li>HTML/HTML-5</li>
   </ul>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunrudakiya123&show_icons=true&locale=en&layout=compact" alt="tarunrudakiya123" /></p>
 
